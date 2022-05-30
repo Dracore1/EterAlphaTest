@@ -1,0 +1,15 @@
+{
+  "CONTRACT_ADDRESS": "0x5C2C815dC512cA7df9c47271DFFE5e12CadD903D",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x5C2C815dC512cA7df9c47271DFFE5e12CadD903D",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "",
+    "ID": 1
+  },
+  "NFT_NAME": "AlphaTest",
+  "SYMBOL": "ALPHAT",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 4000000000000000000,
+  "GAS_LIMIT": 285000,
+    "SHOW_BACKGROUND": true
+}
